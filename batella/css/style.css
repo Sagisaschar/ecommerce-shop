@@ -1,0 +1,37 @@
+/* .h1-home {
+    
+    font-size: 4rem;
+
+    
+} */
+
+@media screen and (min-width: 601px) {
+    .h1-home {
+      font-size: 8rem;
+    }
+  }
+  
+  /* @media screen and (max-width: 600px) {
+    .h1-home {
+    
+        font-size: 4rem;
+    
+        
+    }
+  } */
+
+.btn-item {
+
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 10px;
+    cursor: default;
+
+}
+
+.btn-item-pro {
+
+    cursor: default;
+
+}
+
